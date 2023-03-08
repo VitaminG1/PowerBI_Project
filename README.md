@@ -1,1 +1,1 @@
-# The Dashboard project is about the mortality rate of heart disease , lung diseases and many more. It contains information about the country,state,city wise mortality rate and complete information about diseases.
+
